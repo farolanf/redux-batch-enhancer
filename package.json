@@ -1,5 +1,5 @@
 {
-  "name": "@farolan/redux-batch-enhancer",
+  "name": "redux-batch-enhancer",
   "version": "0.1.4",
   "description": "Batch subscriber notification for an array of actions (including complex actions, e.g. thunks).",
   "main": "lib/index.js",
